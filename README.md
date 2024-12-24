@@ -9,7 +9,11 @@ https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/mercado-do-transport
 Ao fazer o download, virá um arquivo TXT referente ao mês e ano, porém nesse repositorio, estarei disponibilizando os seguintes arquivos:
 
 aerodromo.csv -> Nome dos aerodromos Brasileiros e estrangeiros que tiveram algum vôo de origem ou com destino ao Brasil
+
 aeronave.csv -> Tipo de aeronaves
+
 grupo_di.csv -> Descrição do grupo DI ou Tipo de Voo. Refere-se ao agrupamento das classificações de DI em tipos de operações
+
 tipo_de_linha.csv -> O Tipo de Linha identifica o tipo de operação realizada no voo
+
 VRA_ano_mês -> Arquivo com todas os dados extraidos e limpos. 
