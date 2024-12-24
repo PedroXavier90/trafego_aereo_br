@@ -17,3 +17,6 @@ grupo_di.csv -> Descrição do grupo DI ou Tipo de Voo. Refere-se ao agrupamento
 tipo_de_linha.csv -> O Tipo de Linha identifica o tipo de operação realizada no voo
 
 VRA_ano_mês -> Arquivo com todas os dados extraidos e limpos. 
+
+
+Para limpeza, estarei utilizando Python e Excel, para armazenamento dos dados, estarei alimentando um BD utilizando o MYSQL e para visualização, estarei utilizando o PowerBI
